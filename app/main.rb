@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'handshake'
 @game = Handshake.new
 @game.ask_number
